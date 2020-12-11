@@ -10,14 +10,4 @@ Ok - I have now created "create_branch_online" and it seems to have appeared in 
 
 Have now edited the text directly in sublime-text.  Will now press save to see what happens. Basically it appeared as a change.  No surprise there.
 
-===================
-HELLO WORLD - TEST CHANGE 1
-===================
-
-Hello world - test change 2
--------------------------
-
--------------------------
-AND now - add change with commit message using github desktop
--------------------------
 
