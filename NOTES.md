@@ -15,3 +15,9 @@ HELLO WORLD - TEST CHANGE 1
 ===================
 
 Hello world - test change 2
+-------------------------
+
+-------------------------
+AND now - add change with commit message using github desktop
+-------------------------
+
